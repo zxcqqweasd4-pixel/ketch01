@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run interactive calculator",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"calculator-interactive.js"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}
